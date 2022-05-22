@@ -1,0 +1,59 @@
+R E L A T I O N A L
+   Oracle DB
+  	MySQL
+  	MS SQL Server
+  	SQLite
+  	PostgreSQL
+  	MariaDB
+  	IBM DB2
+  	Teradata
+  	SAP HANA
+  	Amazon Redshift
+  	CockroachDB
+  	Informix
+  	Snowflake
+  	MS Access
+  	Google BigQuery
+
+N O   S Q L
+  	Document
+      o	MongoDB
+      o	Firebase RealtimeDB
+      o	Firestore
+      o	CouchDB
+      o	Amazon DocumentDB
+  	Wide Column
+      o	Cassandra
+      o	DataStax
+      o	HBase
+      o	Amazon Keyspaces
+      o	Elassandra
+  	Key-Value
+      o	Redis
+      o	Memcached
+      o	Etcd
+      o	Hazelcast
+      o	Oracle Coherence
+  	Graph
+      o	Neo4j
+      o	DGraph
+      o	GraphDB
+      o	Amazon Neptune
+  	Time Series
+      o	InfluxDB
+      o	Kdb+
+      o	Prometheus
+      o	Graphite
+      o	TimescaleDB
+  	Search
+      o	Elasticsearch
+      o	Splunk
+      o	Solr
+      o	Algolia
+      o	OpenSearch
+  	Multi-Model
+      o	Amazon DynamoDB
+      o	Azure Cosmos DB
+      o	Oracle NoSQL
+      o	Fauna
+      o	Google Bigtable
