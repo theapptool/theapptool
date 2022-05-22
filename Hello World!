@@ -1,0 +1,68 @@
+Different programs of "HELLO, WORLD!"
+
+HTML
+<!DOCTYPE html>
+<html>
+  <body>
+    Hello, World!
+  </body>
+ </html>
+######################################### 
+ CSS
+ body::before{
+  content:"Hello, World!";
+ }
+#########################################
+ PHP
+ <?php
+    content:"Hello, World!";
+ >
+#########################################
+ PYTHON
+ print("Hello, World!")
+#########################################
+ C++
+ #include<iostream>
+ using namespace std;
+
+ int main(){
+  count<<"Hello, World!";
+  return 0;
+ }
+#########################################
+C
+#include <stdio.h>
+int main(){
+    printf("Hello, World!");
+    return 0;
+}
+######################################### 
+ JAVASCRIPT
+ console.log("Hello, World!");
+
+#########################################
+C#
+Console.WriteLine("Hello, World!");
+#########################################
+JULIA
+println("Hello, World!")
+#########################################
+PERL
+print("Hello, World!")
+#########################################
+JAVA
+class Hello World{
+  public static void main(String[] args){
+    System.out.println("Hello, World!");
+   }
+}
+######################################### 
+ SOLIDITY
+ pragma solidity >=0.5.0 <0.7.0;
+ contract HelloWorld{
+    function get() public pure returns (string memory) {
+      return 'Hello, World!';
+     }
+ }
+#########################################
+ 
