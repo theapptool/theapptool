@@ -20,15 +20,19 @@ I am a freelancer who likes coding
 
 Code/Framework language ⛏️
 
-Python
-React
-Javascript
-Laravel
+Python |
+React |
+React Native |
+Javascript |
+Laravel |
 .NET
 
 Tools ⚒️
-VSCode
+VSCode |
+PyCharm |
+Android Studio
 
 Used Os ⚙️
-kali Linux
+kali Linux |
+Ubuntu |
 Windows
